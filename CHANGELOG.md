@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #4 from leoviana00/feature-setup-k8s [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9e335a9399c48275fe8ef088880fe08318a138e0)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8516c95a776075d5638f28f58f96d007a2ecde4a)
+*  feat(k8s): setup kubernetes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/070201654548771f9458b700bfec7dcbc4628e03)
 
 
 
