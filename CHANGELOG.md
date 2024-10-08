@@ -2,8 +2,12 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #2 from leoviana00/feature-config-repository [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e4c5fd0342e15f1dcbf1c4dca053dcdfc0ddc273)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/25e1aba0089123ff20f4e8e34152932e2297bf78)
+*  feat(templates): Pull Request Template [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fef0e3e126b052bc9253762a810698e44b8c28a7)
+*  feat(issues): Bug Report Template [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/61add79a721b0d9c31201961cd158343f022b8bc)
+*  fet(issues): Feature Request Template [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e25ed2ad29a5dd9794468ec1d47f3e30eff4b52c)
 
 
 
