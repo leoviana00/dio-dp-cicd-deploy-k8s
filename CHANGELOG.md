@@ -2,10 +2,13 @@
 
 ## Current
 ## Merges
+*  Merge pull request #5 from leoviana00/feature-backend-php [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/7a621ab065be6f84aa4967f8bb1d536ca8c24ac4)
 *  Merge pull request #4 from leoviana00/feature-setup-k8s [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9e335a9399c48275fe8ef088880fe08318a138e0)
 ## Commits
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8516c95a776075d5638f28f58f96d007a2ecde4a)
 *  feat(k8s): setup kubernetes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/070201654548771f9458b700bfec7dcbc4628e03)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/4c717fd5a32c705d5a9e8dc639fc0104b55d1e9d)
+*  feat(backend): subindo app backend php [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/6828bf00a74b49eddc921fc3a570ef8bde253864)
 
 
 
