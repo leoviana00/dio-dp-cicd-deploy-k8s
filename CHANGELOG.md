@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #9 from leoviana00/feature-structure [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fb4440d789ebf221b64c34d549dd8d5601705c2e)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/7c4077d97946d290d1fc515f7113033fb06bc7f0)
+*  feat(estrutura): organizacao dos diretorios [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/66362d00b3dcdcd58c507f634997d4139a6931e3)
 
 
 
