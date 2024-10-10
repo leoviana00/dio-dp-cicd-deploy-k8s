@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-php
+  labels:
+    app: backend-php
+spec:
+  replicas: 6
+  selector:
+    matchLabels:
+      app: backend-php
+  template:
+    metadata:
+      labels:
+        app: backend-php
+    spec:
+      containers:
+        - name: backend-php
+          image: leoviana00/backend:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
