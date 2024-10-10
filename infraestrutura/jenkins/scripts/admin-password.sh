@@ -1,1 +1,0 @@
-docker exec jenkins-cicd cat /var/jenkins_home/secrets/initialAdminPassword
