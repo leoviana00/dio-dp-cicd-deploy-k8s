@@ -2,10 +2,17 @@
 
 ## Current
 ## Merges
+*  Merge pull request #10 from leoviana00/feature-infra-stack [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/63b719b720333f217082514904124723fb5bdee1)
 *  Merge pull request #9 from leoviana00/feature-structure [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fb4440d789ebf221b64c34d549dd8d5601705c2e)
 ## Commits
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/7c4077d97946d290d1fc515f7113033fb06bc7f0)
 *  feat(estrutura): organizacao dos diretorios [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/66362d00b3dcdcd58c507f634997d4139a6931e3)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9aead22f71697e396222a661b86480dfcc721f6c)
+*  feat(jenkins): jenkins vagrant vbox [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/aaadbed8625e538199ba58adb700082bddf21902)
+*  feat(jenkins): adicionando docker compose jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/b4238856b58dc90a70bbd8450f70a5c781513881)
+*  feat(k8s): script instalação minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/268f424ed7d6635048e2efbf2b353a07821811ca)
+*  feat(compose): script install docker compose [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/2f37873e76999248e3b6faef30dd4640e2824578)
+*  remove(files): removendo estrutura complexa e adicionando uma mais simples [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fe7e7c72c7f9ee5c27202a28322cf823d8c0b29e)
 
 
 
