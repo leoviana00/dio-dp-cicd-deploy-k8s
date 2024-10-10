@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #11 from leoviana00/hotifix-k8s-minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/09a97070c271e42ca97031eab2869a9c3c8a0c54)
 *  Merge pull request #10 from leoviana00/feature-infra-stack [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/63b719b720333f217082514904124723fb5bdee1)
 *  Merge pull request #9 from leoviana00/feature-structure [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fb4440d789ebf221b64c34d549dd8d5601705c2e)
 ## Commits
@@ -13,6 +14,15 @@
 *  feat(k8s): script instalação minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/268f424ed7d6635048e2efbf2b353a07821811ca)
 *  feat(compose): script install docker compose [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/2f37873e76999248e3b6faef30dd4640e2824578)
 *  remove(files): removendo estrutura complexa e adicionando uma mais simples [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fe7e7c72c7f9ee5c27202a28322cf823d8c0b29e)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/a56c01244d1af64e7a995eff6cdcbfac39fd3ab3)
+*  fix(k8s): correcao e ajuste para subida do minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/297265369f6fa527528a69119b2cdd064f4bac6c)
+*  docs(ignore): ignorando arquivos de log do minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8e8612c570ec587788bd58103e859dc3d9fa902d)
+*  feat(requisitos): adicionando script de instalação de pre requisisitos [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e8d41f4cd00bbfc6a6969bd95c5ed84c3b1e5309)
+*  fix(k8s): ajuste script minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/ec418bba32bdc1fcdbeba02788dbe66470a51f89)
+*  feat(jenkins): adicionando paramentro restart always no compose [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/3a0bb78f7f96f2f8ca8c00de7ffdc2d556b54e43)
+*  feat(jenkins): add script para pegar token do jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/41a28caebd793ec8ea9393210d3b204f4cc4af4b)
+*  docs(jenkins): documentandp sptep inicial do jenkins cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/4d81203ae02975a9fc3969f0d00dbb57bcc02f36)
+*  fix(docs): correcao de erro documentado [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fbc5740776208da54f4d8d3c275710f97ca129f8)
 
 
 
