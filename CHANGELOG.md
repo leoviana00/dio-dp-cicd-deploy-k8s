@@ -2,6 +2,14 @@
 
 ## Current
 ## Merges
+
+## Commits
+
+
+
+## 2.0.1 - (2024-10-09)
+## Merges
+*  Merge pull request #12 from leoviana00/hotifix-k8s-minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/c30c7a559bc4a00a02ca9e8f6b9ce30f00de03bb)
 *  Merge pull request #11 from leoviana00/hotifix-k8s-minikube [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/09a97070c271e42ca97031eab2869a9c3c8a0c54)
 *  Merge pull request #10 from leoviana00/feature-infra-stack [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/63b719b720333f217082514904124723fb5bdee1)
 *  Merge pull request #9 from leoviana00/feature-structure [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fb4440d789ebf221b64c34d549dd8d5601705c2e)
@@ -23,6 +31,8 @@
 *  feat(jenkins): add script para pegar token do jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/41a28caebd793ec8ea9393210d3b204f4cc4af4b)
 *  docs(jenkins): documentandp sptep inicial do jenkins cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/4d81203ae02975a9fc3969f0d00dbb57bcc02f36)
 *  fix(docs): correcao de erro documentado [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fbc5740776208da54f4d8d3c275710f97ca129f8)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e090cdafe33a78df393bfe376932b697ae33b4fb)
+*  docs(package): Update da versao 2.0.0 para 2.0.1 [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/711468568545f638e6588757113685f3f9df8684)
 
 
 
@@ -69,9 +79,10 @@
 *  feat(changelog): Automatizando o registro de changelog com actions [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9b7f7db06eea361782d02a7212ebb3edc8b5eccf)
 ## 📝 Metadata
 ```
-This version -------- 2.0.0
+This version -------- 2.0.1
+2.0.0
 1.0.0
 0.0.0
-Previous version ---- 1.0.0
-Total commits ------- 21
+Previous version ---- 2.0.0
+Total commits ------- 44
 ```
