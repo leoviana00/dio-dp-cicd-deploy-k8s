@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #13 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8ec78cd368d43fef9e9456ecabfc9fcd68568b0e)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fe17c9f419c5252e656ff3161ec2884d612b5600)
+*  feat(cicd): deploy [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/d006647fdf228a47e8921dd2b3bbc5e6c2825e6e)
 
 
 
