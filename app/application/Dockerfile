@@ -1,10 +1,11 @@
 FROM php:7.4-apache
 
 WORKDIR /var/www/html
-# COPY index.php /var/www/html/
-# COPY conexao.php /var/www/html/
-
-COPY . /var/www/html
+COPY incluir.php /var/www/html
+COPY conexao.php /var/www/html
+COPY js.js /var/www/html
+COPY index.html /var/www/html
+COPY css.css /var/www/html
 
 RUN apt-get update && apt-get install -y \
         libfreetype6-dev \
@@ -12,10 +13,7 @@ RUN apt-get update && apt-get install -y \
         libpng-dev \
     && docker-php-ext-configure gd --with-freetype --with-jpeg \
     && docker-php-ext-install -j$(nproc) gd \
-    && docker-php-ext-install pdo_mysql \
-    && docker-php-ext-install mysqli
+    && docker-php-ext-install pdo_mysql
 
 
 EXPOSE 80
-
-CMD ["apache2-foreground"]
