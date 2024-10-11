@@ -4,7 +4,7 @@ $("#btn_gravar").on("click", function() {
     var txt_mensagem = $("#mensagem").val(); 
 
     $.ajax({
-        url: "10.98.226.5/incluir.php",
+        url: "localhost/34453/incluir.php",
         type: "post",
         data: {nome: txt_nome, mensagem: txt_mensagem},
         beforeSend: function() {
