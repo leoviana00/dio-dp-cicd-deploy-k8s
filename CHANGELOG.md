@@ -2,10 +2,21 @@
 
 ## Current
 ## Merges
+*  Merge pull request #14 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/1bb2a4b8470a898cc9788353a71a7d5fca8ee6e8)
 *  Merge pull request #13 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8ec78cd368d43fef9e9456ecabfc9fcd68568b0e)
 ## Commits
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fe17c9f419c5252e656ff3161ec2884d612b5600)
 *  feat(cicd): deploy [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/d006647fdf228a47e8921dd2b3bbc5e6c2825e6e)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/940bd9903ed56d337c680ab4ec31b76adee6415d)
+*  fix(cicd): ajuste docker compose jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/60cc3465035c169a61ac8068cc8082c270a8514e)
+*  feat(cicd): add dockerfile jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/ec041478bb76e5cd030c4e3f9bff765811641ba1)
+*  feat(cicd): config executores [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/6152e15641135e38df741f01ae056bc8b2c23a7b)
+*  feat(cicd): get initial password jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9f3cd9867a8cf00835d0703a70e9be6a91534bab)
+*  feat(cicd): add jenkins plugins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8b57afc7d58a58dd55236fdb3eafa68a6fe839f9)
+*  feat(cicd): initial readme jekins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/eca0847fd50dfd390daddb782e7d9370214850d2)
+*  feat(cicd): goovy file test connection k8s [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/718764a64225545b03ea9311502d466f98d9d186)
+*  feat(cicd): service account and cluster rule jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/43a23677e05b181e3bafc8950c81d192141cd0ad)
+*  feat(cicd): get token jenkins service account [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e8cac9fe445a75671f45ded9ecc09d77100dd486)
 
 
 
