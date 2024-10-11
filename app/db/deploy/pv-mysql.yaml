@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: data-pv
+  labels: 
+    type: data-pv
+spec:
+  capacity:
+    storage: 100Mi
+  accessModes:
+    - ReadWriteOnce
+  storageClassName: manual
+  claimRef:
+    name: data-pvc
+    namespace: default
+  hostPath: 
+    path: /tmp/data
+
