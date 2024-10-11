@@ -2,10 +2,11 @@
 
 Instalação de plugins:
 
-- Docker Pipeline
-- Kubernetes Plugin
-- Kubernetes Continuous Deployment
-
+```
+Docker
+Docker Pipeline
+KUbernetes CLI
+```
 
 Adicionar credenciais do  `Dockerhub`  e configurações do `Kubernetes cluster` em Credential no Jenkins
 
