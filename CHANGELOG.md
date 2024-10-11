@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #29 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/3798823962c8c197bb1765c2c89532c7925f7d4f)
 *  Merge pull request #28 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/ce99ce51acdfc139333eed031c0cea91662d7e41)
 *  Merge pull request #27 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8389bc0d0e9c24927ae2b41cd808182daefaca38)
 *  Merge pull request #26 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/f27de7b29ec3778d75227f9426c3ea5cd42e8cc1)
@@ -47,6 +48,8 @@
 *  feat(db): ajustando jenkinsfile [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/feb21c4a044fbdbf5b786f5fa7971f353d4cd2fd)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/cdab9604c8f6f846062cfa04df9f651b286cc5c7)
 *  feat(app): url test [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e51b8f0f923e71329b26d139c2099c77281c7f09)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/b068efe9dd5206ea3b561559fac3780cfd610dee)
+*  feat(app): url teste [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/0e05cf312b3e36ef564545d1d2c5ca9eda2ae46f)
 
 
 
