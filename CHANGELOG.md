@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #16 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/bcd79475d950a408075a523b5e8a1496eb61c60c)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/b04d7bd5791324e3d736c787748c548f770f9536)
+*  feat(cicd): add jenkinsfile backend [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/d131967c7c9c46e32958bab93019d012cbbcc7ad)
 
 
 
