@@ -2,6 +2,14 @@
 
 ## Current
 ## Merges
+
+## Commits
+
+
+
+## 2.0.2 - (2024-10-10)
+## Merges
+*  Merge pull request #15 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/1581b884342ee3f9f03ee6a724e726326d0a1ca3)
 *  Merge pull request #14 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/1bb2a4b8470a898cc9788353a71a7d5fca8ee6e8)
 *  Merge pull request #13 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8ec78cd368d43fef9e9456ecabfc9fcd68568b0e)
 ## Commits
@@ -17,6 +25,8 @@
 *  feat(cicd): goovy file test connection k8s [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/718764a64225545b03ea9311502d466f98d9d186)
 *  feat(cicd): service account and cluster rule jenkins [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/43a23677e05b181e3bafc8950c81d192141cd0ad)
 *  feat(cicd): get token jenkins service account [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/e8cac9fe445a75671f45ded9ecc09d77100dd486)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8b144eb98639f2ebb342164817281aae5c3875bf)
+*  docs(changelog): update version 2.0.1 para 2.0.2 [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/dffcc7d3fe765e3c319c2b22e4026bf176f5ebfe)
 
 
 
@@ -92,10 +102,11 @@
 *  feat(changelog): Automatizando o registro de changelog com actions [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9b7f7db06eea361782d02a7212ebb3edc8b5eccf)
 ## 📝 Metadata
 ```
-This version -------- 2.0.1
+This version -------- 2.0.2
+2.0.1
 2.0.0
 1.0.0
 0.0.0
-Previous version ---- 2.0.0
-Total commits ------- 44
+Previous version ---- 2.0.1
+Total commits ------- 61
 ```
