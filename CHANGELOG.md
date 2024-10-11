@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #21 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/5dbda88fe10a60449c55c1ebea4f0eebaaf2d9b5)
 *  Merge pull request #20 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/2b2eecf9c99f31d6718ea8e29904b651cb59bedf)
 *  Merge pull request #19 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/cbb1ca17f70893d473c3027a5b26a76f87f337f3)
 *  Merge pull request #18 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/78b468ae613cef03eb032c6689109ffe419dea9d)
@@ -22,6 +23,8 @@
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/35e2384698306dba9495ef99496c84d0319451d8)
 *  feat(front): ajuste url back [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/f2fd2eaf23c4050184b66772d5ae51c4d70354b5)
 *  feat(front): reduzindo replicas de 6 para 1 [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/cb49fa4de48d19ca5a77bcec887acd3638dc245b)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/27efdb0db357341147c6ed6126363c181c0f016b)
+*  feat(app): criando pipeline para o app [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/eaea0d47d9f0c86d5afac4b37a55c520ff9c4c8f)
 
 
 
