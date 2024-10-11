@@ -2,10 +2,15 @@
 
 ## Current
 ## Merges
+*  Merge pull request #17 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/7bdb37c1fd76ca33931e5dd26115d4553f3e5010)
 *  Merge pull request #16 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/bcd79475d950a408075a523b5e8a1496eb61c60c)
 ## Commits
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/b04d7bd5791324e3d736c787748c548f770f9536)
 *  feat(cicd): add jenkinsfile backend [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/d131967c7c9c46e32958bab93019d012cbbcc7ad)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/6b82d754f01bbddeba8cc11e4349ca5a7421ca1d)
+*  feat(db): pipeline para o banco de dados [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/40020be3f12b7540d2163209aa421268a760e259)
+*  feat(db): manifestos de deployment db [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/a13829717e10624a454ce16f0c95b1c6f95a0394)
+*  fix(k8s): test conectio jenkins k8s [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/da2e536e0d31afd663267f7e8af78483ff66bd0b)
 
 
 
