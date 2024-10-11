@@ -1,4 +1,4 @@
-pipeline {
+node {
   environment {
     baseImage = 'leoviana00/application'
     dockerimagename = "${baseImage}:${BUILD_NUMBER}"
