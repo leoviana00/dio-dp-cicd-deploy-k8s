@@ -1,0 +1,54 @@
+pipeline {
+  environment {
+    baseImage = 'leoviana00/frontend'
+    dockerimagename = "${baseImage}:${BUILD_NUMBER}"
+    dockerImage = ''
+  }
+
+  agent any
+
+  stages {
+    stage('Checkout Latest Source') {
+      steps {
+        git branch: 'main', url: 'https://github.com/leoviana00/cicd-jenkins-k8s.git'
+      }
+    }
+
+    stage('Build image') {
+      steps {
+        dir('app/frontend') {
+          script {
+            sh 'docker rmi -f ${baseImage}'
+            dockerImage = docker.build dockerimagename
+          }
+        }
+      }
+    }
+
+    stage('Pushing Image') {
+      environment {
+        registryCredential = 'dockerhublogin'
+      }
+      steps {
+        script {
+          docker.withRegistry('https://registry.hub.docker.com', registryCredential) {
+              dockerImage.push("${BUILD_NUMBER}")
+              dockerImage.push('latest')
+              sh 'docker rmi -f ${dockerimagename}'
+          }
+        }
+      }
+    }
+
+    stage('Deploying App to Kubernetes') {
+      steps {
+        withKubeConfig(caCertificate: '', clusterName: 'demo-cluster', contextName: 'demo-cluster', credentialsId: 'jenkins-account-k8s', namespace: '', restrictKubeConfigAccess: false, serverUrl: 'https://192.168.49.2:8443'){
+            sh '''
+                kubectl get nodes
+                kubectl apply -f app/frontend/deploy/
+            '''
+        }
+      }
+    }
+  }
+}
