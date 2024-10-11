@@ -42,7 +42,7 @@ pipeline {
 
     stage('Deploying App to Kubernetes') {
       steps {
-        withKubeConfig(caCertificate: '', clusterName: 'demo-cluster', contextName: 'demo-cluster', credentialsId: 'jenkins-account-k8s', namespace: '', restrictKubeConfigAccess: false, serverUrl: 'https://192.168.49.2:8443'){
+        withKubeConfig(caCertificate: '', clusterName: 'demo-cluster', contextName: 'demo-cluster', credentialsId: 'jenkins-account-k8s', namespace: '', restrictKubeConfigAccess: false, serverUrl: 'https://192.168.49.2:8443') {
             sh '''
                 kubectl get nodes
                 kubectl apply -f app/application/deploy/
