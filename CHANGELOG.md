@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #25 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/eb651580aeffe716496a6c71bf8f65c76d474222)
 *  Merge pull request #24 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/54369c6f9c4eed38cb1f87fd2b3f0a1e623d9307)
 *  Merge pull request #23 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8d7391c4024b9799e5b2abdfe7e088da2f5d41ca)
 *  Merge pull request #22 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/b04d5305659c0b09a392e08f82b1dfcde70ada7b)
@@ -34,6 +35,8 @@
 *  feat(app): add url par incluir.php [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/db1b7ebd73f5c6174a7446989afb01ee2cbf17ec)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/8b477c11f359ce6ee83c265f3e452170eee212f3)
 *  feat(cicd):add url [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/0a5f7094288ec3181210d834f15a3fe2cc1f3820)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/917e4c7419ba7f315fbbc56069c14ed5522379e5)
+*  feat(cicd): app [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/d4f1f5a285a05e567ec98824123e06c3af4b0eab)
 
 
 
