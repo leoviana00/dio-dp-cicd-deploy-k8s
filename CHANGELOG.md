@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #33 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/64de0d12bffd01b842a31f3816c7c70373b982d0)
 *  Merge pull request #32 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/6c6fa5a651954a55070b3de4a8c219e8ae45f897)
 *  Merge pull request #31 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/46956cc610228b6226e2a4f892f23e96a638d7d2)
 *  Merge pull request #30 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/f6d6669adf12116e43fe762eace6c181518d4654)
@@ -59,6 +60,8 @@
 *  feat: ajuste jenkinsfile [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/983c102a120e7c5f4e86b911ac68b85e735eb8c7)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/149a8584bbb13c0e4d3c70533122b9943e5e7b01)
 *  fix(ci): ajuste [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/54300b8226b6693c98abd03360ff066b773682e9)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/98cbbf942f6a305a66575f60979b2e4cd338ebd0)
+*  fix(app): correcao dop server name mysql [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/be5f43ec8b8a1aee35cadc0df4c325f443c2c308)
 
 
 
