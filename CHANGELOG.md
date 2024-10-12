@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #37 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/029b3418e11e39b20017fa74893fafb53de5e2d4)
 *  Merge pull request #36 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/609afc7aabbe31d8e724a499e96e2849ca7d1ce3)
 *  Merge pull request #35 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/c0b4fcd60666da83cdf92a121c161912e9f9c98f)
 *  Merge pull request #34 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/b09f5069b2a478836c700df6cfda8232d56915ed)
@@ -71,6 +72,8 @@
 *  feat: teste [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/ccc677f07df7f49055262b3f4cfc7e05a70c1173)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/000591c994c960c09e651d58365e5410d0c9c866)
 *  feat: include conexao php [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/189de1a2d28186d7752ad7420e8b983d41be8224)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/bcc956813044f5dd1ee538b0071c47755d247508)
+*  feat(docker): ajustando dckerfile [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/1f6c0185d276146391fc33be4c3f766bf7e4d01e)
 
 
 
