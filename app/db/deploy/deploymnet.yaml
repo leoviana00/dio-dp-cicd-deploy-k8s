@@ -12,7 +12,7 @@ spec:
         app: mysql
     spec:
       containers:
-        - image: mysql:latest
+        - image: leoviana00/database:latest
           name: database
           imagePullPolicy: Always
           ports:
