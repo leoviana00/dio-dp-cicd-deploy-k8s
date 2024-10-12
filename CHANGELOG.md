@@ -2,6 +2,7 @@
 
 ## Current
 ## Merges
+*  Merge pull request #40 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/c41bbe74fba9d31c545281efd61923b13c35a09a)
 *  Merge pull request #39 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/09e78cec952d951d28a32e0ff72d9a17f6155ce0)
 *  Merge pull request #38 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/cdb839a909c4d4c5e5cc1996fed6304ea56c2b3d)
 *  Merge pull request #37 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/029b3418e11e39b20017fa74893fafb53de5e2d4)
@@ -80,6 +81,8 @@
 *  feat(app): ajuste connection php [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/2ebce96cda6e313cb1b6a67a77167f99f5b0b562)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/632cf713f17608d35b21d7f713acc18c197f5d80)
 *  feat: configuracao banco de dados [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/a16586f2bfd72ea4b233bcb98d33ad360434ef37)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/5a45b4713ce04a1f020109e7575559a995ee54f6)
+*  feat(db): ajuste jenkinsfile db [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/17a07434fc3e69ae83fb20dd790ec9f762d0446d)
 
 
 
