@@ -2,6 +2,14 @@
 
 ## Current
 ## Merges
+
+## Commits
+
+
+
+## 3.0.0 - (2024-10-11)
+## Merges
+*  Merge pull request #42 from leoviana00/feature-jobs-app [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/2a3b53392769d3c0110f2c1789524e15234edaa4)
 *  Merge pull request #41 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/dda77344680442e44b157df2f82314400fb27771)
 *  Merge pull request #40 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/c41bbe74fba9d31c545281efd61923b13c35a09a)
 *  Merge pull request #39 from leoviana00/feature-jenkins-cicd [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/09e78cec952d951d28a32e0ff72d9a17f6155ce0)
@@ -86,6 +94,8 @@
 *  feat(db): ajuste jenkinsfile db [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/17a07434fc3e69ae83fb20dd790ec9f762d0446d)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/14ec1d8e9269f93b307969fe26f88e6e393ad2ea)
 *  feat: frontend [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/aa453d2c4ade40baa44a85a7d4bc28d73402e2f8)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/7ca4e230e48d1b485379cf3c16bd62f30d390c84)
+*  docs(changelog): documentando finalização dos jobs da aplicacao [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/fe78a67476fda778b16f3dd250d55f7fb6997bec)
 
 
 
@@ -184,11 +194,11 @@
 *  feat(changelog): Automatizando o registro de changelog com actions [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/9b7f7db06eea361782d02a7212ebb3edc8b5eccf)
 ## 📝 Metadata
 ```
-This version -------- 2.0.2
+This version -------- 3.0.0
+2.0.2
 2.0.1
 2.0.0
 1.0.0
-0.0.0
-Previous version ---- 2.0.1
-Total commits ------- 61
+Previous version ---- 2.0.2
+Total commits ------- 139
 ```
