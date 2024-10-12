@@ -9,6 +9,7 @@ $nome = $_POST["nome"];
 $email = $_POST["email"];
 $comentario = $_POST["comentario"];
 
+
 $query = "INSERT INTO mensagens(id, nome, email, comentario) VALUES ('$id', '$nome', '$email', '$comentario')";
 
 
