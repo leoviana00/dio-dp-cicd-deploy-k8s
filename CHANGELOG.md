@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #43 from leoviana00/docs-license [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/3051e0dd413774e2973533ca6fa4b8736f445471)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/181846f021fe73933fa5dde82fb2f84bea8822e7)
+*  docs(license): add license file [View](https://github.com/leoviana00/cicd-jenkins-k8s/commits/f77d7aec7925d343c8af07465b631c17df6d725e)
 
 
 
